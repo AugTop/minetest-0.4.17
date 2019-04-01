@@ -1,0 +1,1 @@
+return {["playerlist"] = {["Aug-Top"] = {["mana"] = 200, ["hudid"] = 1, ["maxmana"] = 200, ["regen"] = 1, ["remainder"] = 0}}}

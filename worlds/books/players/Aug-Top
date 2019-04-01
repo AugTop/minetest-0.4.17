@@ -1,0 +1,72 @@
+extended_attributes = """
+null
+
+"""
+breath = 11
+name = Aug-Top
+position = (266.56,281.93,-151.56)
+version = 1
+hp = 13
+pitch = 41.3
+yaw = 329.98
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dirt
+Item default:cobble
+Item default:torch 2
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

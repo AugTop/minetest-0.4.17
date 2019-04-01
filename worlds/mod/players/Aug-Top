@@ -1,0 +1,95 @@
+extended_attributes = """
+{"3d_armor_inventory":"return {\"\", \"\", \"\", \"\", \"\", \"\"}","stamina:exhaustion":"51","stamina:hud_id":"2","stamina:level":"18","stamina:poisoned":"no"}
+
+"""
+breath = 11
+name = Aug-Top
+position = (-10,-205,0)
+version = 1
+hp = 20
+pitch = 86.9
+yaw = 160.5
+PlayerArgsEnd
+List main 32
+Width 0
+Item axinitium:pickaxe 1 4480
+Item default:pick_diamond
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 99
+Item default:cobble 99
+Item default:iron_lump
+Item default:cobble 80
+Item default:dry_grass_1
+Item default:dirt 30
+Item default:coal_lump
+Item default:gravel
+Item default:silver_sand
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List smithing 1
+Width 0
+Empty
+EndInventoryList
+List axinitiumchest 16
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

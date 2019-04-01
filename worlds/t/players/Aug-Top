@@ -1,0 +1,72 @@
+extended_attributes = """
+{"test_attribute":"test_me"}
+
+"""
+breath = 10
+name = Aug-Top
+position = (-756.32,-5,392.15)
+version = 1
+hp = 6
+pitch = 7.19
+yaw = 116.99
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:pick_stone
+Item default:torch 98
+Item default:cobble 99
+Item default:wood 99
+Item experimental:tester_tool_1
+Item default:shovel_steel
+Item default:pick_wood
+Item default:pick_steel
+Item default:pick_mese
+Item default:mese 99
+Item default:water_source 99
+Empty
+Item default:axe_steel
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

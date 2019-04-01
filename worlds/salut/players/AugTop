@@ -1,0 +1,91 @@
+extended_attributes = """
+{"3d_armor_inventory":"return {\"\", \"\", \"\", \"\", \"\", \"\"}","stamina:exhaustion":"150","stamina:hud_id":"2","stamina:level":"17","stamina:poisoned":"no"}
+
+"""
+breath = 11
+name = AugTop
+position = (-364.08,-103.77,-1359.04)
+version = 1
+hp = 20
+pitch = 27.68
+yaw = 174.99
+PlayerArgsEnd
+List main 32
+Width 0
+Item default:dirt
+Item default:cobble
+Item default:coal_lump
+Item axinitium:pickaxe
+Item default:gravel
+Item default:dry_grass_1
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List hand 1
+Width 0
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List axinitiumchest 16
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory
